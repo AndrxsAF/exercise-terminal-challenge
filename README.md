@@ -12,7 +12,7 @@ This command line challenge is designed to help you become familiar with the bas
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-a) Open this link in your browser to clone it with gitpod (recommended): https://gitpod.io#https://github.com/breatheco-de/excercise-terminal-challenge.git
+a) Open this link in your browser to clone it with gitpod (recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-terminal-challenge.git
 
 b) You can clone this repository on your local computer:
 
@@ -22,7 +22,7 @@ $ git https://github.com/breatheco-de/excercise-terminal-challenge.git
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-##· Only teachers must follow this step:
+## Only teachers must follow this step:
 
 #### 1) Install the packages.
 
